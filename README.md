@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @abdallahat, a software engineer from Germany
-- 👀 I’m interested in backend web engineering
+- 👋 Hi, I'm @abdallahat — software engineer, solopreneur, and builder from Germany
+- 👀 Passionate about backend web engineering and building products people actually use
+- 🚀 Currently building [kibewerben.de](https://kibewerben.de), AI-powered job applications for the German market
+- 💡 I love turning ideas into working products, fast
 
-- 📫 How to reach me <hello@abdallah.at>
+- 📫 Reach me at <hello@abdallah.at>
 
 <!---
 AbdallahAt/AbdallahAt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
